@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: http://mampir4d.fairmlbook.org/sitemap.xml
